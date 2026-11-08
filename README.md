@@ -208,4 +208,4 @@ This repository serves as the official landing page for Hero World. The software
 **Get the most recent version of Hero World today!**
 
 ---
-**Last updated:** 2026-11-07 23:23:42 UTC
+**Last updated:** 2026-11-08 04:16:27 UTC
